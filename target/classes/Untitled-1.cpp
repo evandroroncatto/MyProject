@@ -113,6 +113,7 @@ void ClientCode()
 
 int main() {
      ClientCode();
+     std::cout << "corkomorko";
      std::cout << "sasHello Worlcsasdd!" << std::endl;
      return 0;
 }
