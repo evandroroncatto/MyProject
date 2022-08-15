@@ -115,5 +115,6 @@ int main() {
      ClientCode();
      std::cout << "corkomorko";
      std::cout << "sasHello Worlcsasdd!" << std::endl;
+     std::cout << "honkiponki";
      return 0;
 }
